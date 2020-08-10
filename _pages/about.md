@@ -14,18 +14,20 @@ I am a Ph.D. student in the [Data Mining Group](http://dm1.cs.uiuc.edu/) at Univ
 
 Education
 ======
-* University of Illinois, Urbana-Champaign (2018.08-present)
-  Ph.D. in Computer Science
-  Research Interest: Data Mining, Text Mining
-  Advisor: Prof. [Jiawei Han](hanj.cs.illinois.edu)
+* University of Illinois, Urbana-Champaign (2018.08-present)  
+  Ph.D. in Computer Science  
+  Research Interest: Data Mining, Text Mining  
+  Advisor: Prof. [Jiawei Han](hanj.cs.illinois.edu)  
 
-* Tsinghua University (2014.08-2018.07)
-  B. Eng. in Electronic Engineering
-  Advisor: Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/)
+* Tsinghua University (2014.08-2018.07)  
+  B. Eng. in Electronic Engineering  
+  Advisor: Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/)  
 
-* University of California, Los Angeles (2017.07-2017.09)
-  CSST summer program	
-  Advisor: Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/)
+* University of California, Los Angeles (2017.07-2017.09)  
+  CSST summer program  
+  Advisor: Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/)  
+
+
 
 
 
