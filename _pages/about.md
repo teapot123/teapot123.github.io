@@ -36,7 +36,7 @@ Academic Excellence Scholarship, Tsinghua University  2015-2017
 China National Scholarship (Top 1%)  2016  
 Samsung Scholarship  2015  
 
-TEACHING EXPERIENCE
+Teaching Experience
 ======
 CS 412: Introduction to Data Mining, Teaching Assistant, Spring 2019, UIUC		
 
