@@ -16,7 +16,7 @@ in Proc. of 2020 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (K
 Yu Meng, Yunyi Zhang, <strong>Jiaxin Huang</strong>, Yu Zhang, Chao Zhang and Jiawei Han  
 in Proc. of 2020 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD’20), San Diego, CA, August 2020 
 * Embedding-Driven Multi-Dimensional Topic Mining and Text Analysis (Conference tutorial)   
-Yu Meng, <strong>Jiaxin Huang<strong>, Jiawei Han  
+Yu Meng, <strong>Jiaxin Huang</strong>, Jiawei Han  
 in Proc. of 2020 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD’20), San Diego, CA, August 2020
 * Minimally Supervised Categorization of Text with Metadata  
 Yu Zhang, Yu Meng, <strong>Jiaxin Huang</strong>, Frank F. Xu, Xuan Wang and Jiawei Han  
