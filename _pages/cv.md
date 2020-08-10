@@ -39,6 +39,6 @@ in Proc. of 2019 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (K
 * Understanding Motivations behind Inaccurate Check-ins  
 Fengli Xu, Guozhen Zhang, Zhilong Chen, <strong>Jiaxin Huang</strong>, Yong Li, Diyi Yang, Ben Y. Zhao, Fanchao Meng  
 in Proc. of 2018 ACM CSCW Conference on Computer-Supported Cooperative Work (CSCW’2018)
-* Big Data Driven Mobile Traffic Understanding and Forecasting: A Time Series Approach
-Fengli Xu, Yujun Lin, <strong>Jiaxin Huang</strong>, Yong Li
+* Big Data Driven Mobile Traffic Understanding and Forecasting: A Time Series Approach  
+Fengli Xu, Yujun Lin, <strong>Jiaxin Huang</strong>, Yong Li  
 IEEE Transactions on Services Computing, 2016.
