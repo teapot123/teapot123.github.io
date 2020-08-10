@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student in the [Data Mining Group](http://dm1.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](hanj.cs.illinois.edu). I obtained my Bachelor Degree in Electronic Engineering in Tsinghua University. My research interests focus on mining text data using minimal human supervision.
+I am a Ph.D. student in the [Data Mining Group](http://dm1.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). I obtained my Bachelor Degree in Electronic Engineering in Tsinghua University. My research interests focus on mining text data using minimal human supervision.
 
 
 Education
@@ -17,7 +17,7 @@ Education
 * University of Illinois, Urbana-Champaign (2018.08-present)  
   Ph.D. in Computer Science  
   Research Interest: Data Mining, Text Mining  
-  Advisor: Prof. [Jiawei Han](hanj.cs.illinois.edu)  
+  Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu)  
 
 * Tsinghua University (2014.08-2018.07)  
   B. Eng. in Electronic Engineering  

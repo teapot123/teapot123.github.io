@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
   
-* CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring  
+* CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring \[[PDF](http://hanj.cs.illinois.edu/pdf/kdd20_jhuang.pdf)\]  
 <strong>Jiaxin Huang</strong>, Yiqing Xie, Yu Meng, Yunyi Zhang and Jiawei Han  
 in Proc. of 2020 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD’20), San Diego, CA, August 2020
 * Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding  
