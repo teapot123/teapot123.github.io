@@ -27,8 +27,18 @@ Education
   CSST summer program  
   Advisor: Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/)  
 
+Honors and Awards
+======
+KDD Student Registration Award (Virtual Event)  2020  
+Chirag Foundation Graduate Fellowship in Computer Science, UIUC  2018  
+Outstanding Graduates, Tsinghua University  2018  
+Academic Excellence Scholarship, Tsinghua University  2015-2017  
+China National Scholarship (Top 1%)  2016  
+Samsung Scholarship  2015  
 
-
+TEACHING EXPERIENCE
+======
+CS 412: Introduction to Data Mining, Teaching Assistant, Spring 2019, UIUC		
 
 
 

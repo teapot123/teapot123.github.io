@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
   
 * CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
-  Jiaxin Huang, Yiqing Xie, Yu Meng, Yunyi Zhang and Jiawei Han 
+  <strong>Jiaxin Huang</strong>, Yiqing Xie, Yu Meng, Yunyi Zhang and Jiawei Han 
   in Proc. of 2020 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD’20), San Diego, CA, August 2020
 * Yu Meng, Yunyi Zhang, Jiaxin Huang, Yu Zhang, Chao Zhang and Jiawei Han, “Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding”, in Proc. of 2020 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD’20), San Diego, CA, August 2020 
 * Yu Meng, Jiaxin Huang, Jiawei Han, “Embedding-Driven Multi-Dimensional Topic Mining and Text Analysis”, (Conference tutorial), 2020 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD’20), San Diego, CA, August 2020
