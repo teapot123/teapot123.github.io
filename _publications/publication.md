@@ -2,13 +2,9 @@
 layout: archive	
 title: "Publications"
 permalink: /publications/
-author_profile: true	
-redirect_from:	
-  - /resume	  
+author_profile: true	  
 ---	---
 
-
-{% include base_path %}
   
   * CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
    Jiaxin Huang, Yiqing Xie, Yu Meng, Yunyi Zhang and Jiawei Han 
