@@ -1,10 +1,10 @@
 ---
-layout: archive	layout: archive
-title: "Publications"	title: "Publications"
-permalink: /publications/	permalink: /publications/
-author_profile: true	author_profile: true
-redirect_from:	redirect_from:
-  - /resume	  - /resume
+layout: archive	
+title: "Publications"
+permalink: /publications/
+author_profile: true	
+redirect_from:	
+  - /resume	  
 ---	---
 
 
