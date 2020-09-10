@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-  
+
+| Entry            | Item   |
+| --------         | ------ |
 | <img src='/images/500x300.png'> |  CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring \[[PDF](http://hanj.cs.illinois.edu/pdf/kdd20_jhuang.pdf)\]  
 <strong>Jiaxin Huang</strong>, Yiqing Xie, Yu Meng, Yunyi Zhang and Jiawei Han  
 in Proc. of 2020 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD’20), San Diego, CA, August 2020 |
