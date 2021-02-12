@@ -35,6 +35,7 @@ Industrial Experience
 
 Honors and Awards
 ======
+Microsoft Research PhD Fellowship  2021-2023  
 KDD Student Registration Award (Virtual Event)  2020  
 Chirag Foundation Graduate Fellowship in Computer Science, UIUC  2018  
 Outstanding Graduates, Tsinghua University  2018  
