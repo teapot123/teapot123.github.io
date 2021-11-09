@@ -45,7 +45,7 @@ Samsung Scholarship  2015
 
 Services
 ======
-Conference PC Member: AAAI 2021  
+Conference PC Member: AAAI 2022, AAAI 2021  
 Student Volunteer: KDD 2020  
 
 Teaching Experience
