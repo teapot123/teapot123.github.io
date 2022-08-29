@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiaxin Huang"
 title_separator          : "-"
 name                     : &name "Jiaxin Huang"
-description              : &description "4th Year PhD Student, UIUC"
+description              : &description "5th Year PhD Student, UIUC"
 url                      : https://teapot123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "teapot123/teapot123.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiaxin Huang"
   avatar           : "my_pic1.jpg"
-  bio              : "4th Year PhD Student @ UIUC"
+  bio              : "5th Year PhD Student @ UIUC"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
