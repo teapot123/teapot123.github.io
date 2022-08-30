@@ -31,7 +31,7 @@ Experience
 ======
 * Google Core-ML (2022.06-2022.09)  
   Research Intern  
-  Host: Dr. Le Hou and Yuexin Wu
+  Host: Dr. Le Hou and Dr. Yuexin Wu
 
 * Google Research (2021.05-2021.08)  
   Research Intern  
