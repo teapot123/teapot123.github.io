@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. student in the [Data Mining Group](http://dm1.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). I obtained my Bachelor Degree in Electronic Engineering in Tsinghua University. My research aims to design text mining approaches for label‑efficient knowledge acquisition and utilization, from constructing fundamental knowledge representations for concepts, entities and documents, to improving complex reasoning process for language models. Specifically, my work tackles the label scarcity issues for a variety of knowledge‑intensive applications, including concept ontology construction, entity extraction, text classification and commonsense reasoning.
+I am a final-year Ph.D. student in the [Data Mining Group](http://dm1.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). I obtained my Bachelor Degree in Electronic Engineering in Tsinghua University. My research aims to design natural language processing approaches for factual knowledge acquisition and utilization and language model reasoning. My work also focuses on the tackling the label scarcity issues for a variety of knowledge‑intensive applications.
 
 Starting in Spring 2024, I will be joining [Washington University in St. Louis](https://wustl.edu/) as an Assistant Professor in [Computer Science Engineering](https://cse.wustl.edu/). Please feel free to drop me an email if you are interested in working with me.
 
