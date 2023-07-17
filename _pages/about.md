@@ -18,7 +18,7 @@ Education
 ======
 * University of Illinois, Urbana-Champaign (2018.08-present)  
   Ph.D. in Computer Science  
-  Research Interest: Data Mining, Text Mining  
+  Research Interest: Natural Language Processing, Data Mining
   Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu)  
 
 * Tsinghua University (2014.08-2018.07)  
