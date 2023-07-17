@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. student in the [Data Mining Group](http://dm1.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). I obtained my Bachelor Degree in Electronic Engineering in Tsinghua University. My research aims to design natural language processing approaches for factual knowledge acquisition and utilization and language model reasoning. My work also focuses on the tackling the label scarcity issues for a variety of knowledge‑intensive applications.
+I am a final-year Ph.D. student in the [Data Mining Group](http://dm1.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). I obtained my Bachelor Degree in Electronic Engineering in Tsinghua University. My research aims to design natural language processing approaches for factual knowledge acquisition and utilization and language model reasoning. My work also focuses on the tackling the label scarcity issues for various knowledge‑intensive applications.
 
 Starting in Spring 2024, I will be joining [Washington University in St. Louis](https://wustl.edu/) as an Assistant Professor in [Computer Science Engineering](https://cse.wustl.edu/). Please feel free to drop me an email if you are interested in working with me.
 
@@ -53,10 +53,6 @@ Outstanding Graduates, Tsinghua University  2018
 Academic Excellence Scholarship, Tsinghua University  2015-2017  
 China National Scholarship (Top 1%)  2016  
 Samsung Scholarship  2015  
-
-Teaching Experience
-======
-CS 412: Introduction to Data Mining, Teaching Assistant, Spring 2019, UIUC		
 
 
 
