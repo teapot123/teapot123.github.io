@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. student in the [Data Mining Group](http://dm1.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). Prior to UIUC, I received my Bachelor Degree in Electronic Engineering in Tsinghua University in 2018. My research aims to design natural language processing approaches for factual knowledge acquisition and utilization and language model reasoning. My work also focuses on the tackling the label scarcity issues for various knowledge‑intensive applications.
+I am a final-year Ph.D. student in the [Data Mining Group](http://dm1.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). I am currently visiting UW NLP Group, working with Prof. [Hanna Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). Prior to UIUC, I received my Bachelor Degree in Electronic Engineering in Tsinghua University in 2018. My research aims to design natural language processing approaches for factual knowledge acquisition and utilization and language model reasoning. My work also focuses on the tackling the label scarcity issues for various knowledge‑intensive applications.
 
 <strong>Starting in Spring 2024, I will be joining [Washington University in St. Louis](https://wustl.edu/) as an Assistant Professor in [Computer Science Engineering](https://cse.wustl.edu/). I am looking for PhD students! Please feel free to drop me an email if you are interested in working with me.</strong>
 
