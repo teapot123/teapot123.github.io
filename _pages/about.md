@@ -18,7 +18,7 @@ Research Interests
 ======
 * <em>Factual Knowledge Extraction</em>: I build methods for extracting factual knowledge ([hierarchical structures](https://arxiv.org/abs/2010.06714), [entities](https://arxiv.org/abs/2012.14978), [summarizations](https://arxiv.org/abs/2110.08845)) with few-shot and zero-shot supervision.
 * <em>Factual Knowledge Reasoning/Utilization</em>: I investigate how language model generations can help improve different NLP applications ([multi-hop reasoning](https://arxiv.org/abs/2210.11610), [natural language understanding](https://arxiv.org/abs/2202.04538), and [entity typing](https://arxiv.org/abs/2206.13746)).
-* <em>Representation Learning</em>: I study how the text embedding space could be regularized for different circumstances ([category-based](https://arxiv.org/abs/1908.07162), [joint-categories learning](https://arxiv.org/abs/2010.06705), [contextualized](https://arxiv.org/abs/2202.04582), etc.)
+* <em>Representation Learning</em>: I study how the text embedding space could be regularized in different circumstances ([category-based](https://arxiv.org/abs/1908.07162), [joint-categories learning](https://arxiv.org/abs/2010.06705), [contextualized](https://arxiv.org/abs/2202.04582), etc.)
 
 
 Honors and Awards
