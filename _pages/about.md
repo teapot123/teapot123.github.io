@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. student in the [Data Mining Group](http://dm1.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). I am currently visiting UW NLP Group, working with Prof. [Hanna Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). Prior to UIUC, I received my Bachelor Degree in Electronic Engineering in Tsinghua University in 2018. My research aims to design natural language processing approaches for factual knowledge acquisition and utilization and language model reasoning. My work also focuses on tackling the label scarcity issues for various knowledge‑intensive applications.
+I am an Assistant Professor in Computer Science Engineering (CSE) Department, Washington University in St. Louis (WashU). I received my Ph.D. degree in Computer Science Department, UIUC, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). After that, I visited UW as a researcher and worked with Prof. [Hanna Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). Prior to UIUC, I received my Bachelor Degree in Electronic Engineering in Tsinghua University in 2018. My research interest broadly lies in the intersection of natural language processing and machine learning, and I am especially interested in understanding the properties of language models as well as improving their factuality and trustworthiness.
 
-<strong>Starting in Spring 2024, I will be joining [Washington University in St. Louis](https://wustl.edu/) as an Assistant Professor in [Computer Science Engineering](https://cse.wustl.edu/). I am looking for PhD students and interns! If you are interested in working with me, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeFDUgS0Q6CiH2-SjztPRwPP4DxCED5THhKdTOgIP3fh4LSTw/viewform) . While submitting the form is already sufficient, you are also welcome to reach out to me via email. I will read every email but please understand that I might not be able to respond to each of them due to time constraints.</strong>
+I am looking for PhD students and interns! If you are interested in working with me, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeFDUgS0Q6CiH2-SjztPRwPP4DxCED5THhKdTOgIP3fh4LSTw/viewform) . While submitting the form is already sufficient, you are also welcome to reach out to me via email. I will read every email but please understand that I might not be able to respond to each of them due to time constraints.
 
 
-Research Interests
+Recent Research Interests
 ======
-* <em>Factual Knowledge Extraction</em>: I build methods for extracting factual knowledge ([hierarchical structures](https://arxiv.org/abs/2010.06714), [entities](https://arxiv.org/abs/2012.14978), [summarizations](https://arxiv.org/abs/2110.08845)) with few-shot and zero-shot supervision.
-* <em>Natural Language Generation</em>: I investigate how language model generations can help improve different NLP applications ([multi-hop reasoning](https://arxiv.org/abs/2210.11610), [natural language understanding](https://arxiv.org/abs/2202.04538), and [entity typing](https://arxiv.org/abs/2206.13746)).
+* <em>Large Language Model Factuality</em>: I build methods for extracting factual knowledge ([hierarchical structures](https://arxiv.org/abs/2010.06714), [entities](https://arxiv.org/abs/2012.14978), [summarizations](https://arxiv.org/abs/2110.08845)) in low-resource setting, and improving the output confidence of statements from language model responses.
+* <em>Large Language Model Reasoning</em>: I investigate how large language model generations can self-improve their reasoning abilities ([multi-hop reasoning](https://arxiv.org/abs/2210.11610)).
 * <em>Representation Learning</em>: I study how the text embedding space could be regularized in different circumstances ([category-based](https://arxiv.org/abs/1908.07162), [joint-categories learning](https://arxiv.org/abs/2010.06705), [contextualized](https://arxiv.org/abs/2202.04582), etc.)
 
 
