@@ -6,9 +6,6 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /CSE561A_2024sp/    
-    
   # - title: "Portfolio"
   #   url: /portfolio/
         
@@ -17,6 +14,10 @@ main:
     
   - title: "Publications"
     url: /cv1/
+
+  - title: "Teaching"
+    url: /CSE561A_2024sp/    
+    
     
   # - title: "Guide"
   #   url: /markdown/
