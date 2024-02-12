@@ -6,8 +6,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Teaching"
+    url: /CSE561A_2024sp/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
