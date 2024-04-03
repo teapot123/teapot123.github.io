@@ -34,7 +34,7 @@ Samsung Scholarship  2015
  
 Education
 ======
-* University of Illinois, Urbana-Champaign (2018.08-present)  
+* University of Illinois, Urbana-Champaign (2018.08-2023.12)  
   Ph.D. in Computer Science  
   Research Interest: Natural Language Processing, Data Mining
   Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu)  
