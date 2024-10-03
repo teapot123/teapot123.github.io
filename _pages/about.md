@@ -8,16 +8,19 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor in Computer Science Engineering (CSE) Department, Washington University in St. Louis (WashU). I received my Ph.D. degree in Computer Science Department, UIUC, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). After that, I visited UW as a researcher and worked with Prof. [Hanna Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). Prior to UIUC, I received my Bachelor Degree in Electronic Engineering in Tsinghua University in 2018. My research interest broadly lies in the intersection of natural language processing and machine learning, and I am especially interested in understanding the properties of language models as well as improving their factuality and trustworthiness.
+I am an Assistant Professor in Computer Science Engineering (CSE) Department, Washington University in St. Louis (WashU). I received my Ph.D. degree in Computer Science Department, UIUC, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). After that, I visited UW as a researcher and worked with Prof. [Hanna Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). Prior to UIUC, I received my Bachelor Degree in Electronic Engineering in Tsinghua University in 2018. My research interest broadly lies in the intersection of natural language processing and machine learning, and I am especially interested in understanding the properties of language models as well as improving their trustworthiness and efficiency.
 
-I am looking for PhD students and interns! If you are interested in working with me, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeFDUgS0Q6CiH2-SjztPRwPP4DxCED5THhKdTOgIP3fh4LSTw/viewform) . While submitting the form is already sufficient, you are also welcome to reach out to me via email. I will read every email but please understand that I might not be able to respond to each of them due to time constraints.
+I am looking for PhD students for 25'Fall and interns year-round! If you are interested in working with me, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeFDUgS0Q6CiH2-SjztPRwPP4DxCED5THhKdTOgIP3fh4LSTw/viewform) . While submitting the form is already sufficient, you are also welcome to reach out to me via email. I will read every email but please understand that I might not be able to respond to each of them due to time constraints.
 
 
 Recent Research Interests
 ======
-* <em>Large Language Model Factuality</em>: I build methods for extracting factual knowledge ([hierarchical structures](https://arxiv.org/abs/2010.06714), [entities](https://arxiv.org/abs/2012.14978), [summarizations](https://arxiv.org/abs/2110.08845)) in low-resource setting, and improving the output confidence of statements from language model responses.
-* <em>Large Language Model Reasoning</em>: I investigate how large language model generations can self-improve their reasoning abilities ([multi-hop reasoning](https://arxiv.org/abs/2210.11610)).
-* <em>Representation Learning</em>: I study how the text embedding space could be regularized in different circumstances ([category-based](https://arxiv.org/abs/1908.07162), [joint-categories learning](https://arxiv.org/abs/2010.06705), [contextualized](https://arxiv.org/abs/2202.04582), etc.)
+* <em>**Large Language Model Factuality and Calibration**</em>: I build methods for extracting factual knowledge including structured knowledge([1](https://arxiv.org/abs/2310.07795),[2](https://arxiv.org/abs/2010.06714)), entity recognition(([1](https://arxiv.org/abs/2206.13746)),[2](https://arxiv.org/abs/2012.14978)), [summarizations](https://arxiv.org/abs/2110.08845) in low-resource setting. Recently, I am working on improving language model reliability to align their confidence with performance.
+* <em>**Large Language Model Reasoning**</em>: I investigate how large language model generations can self-improve their reasoning abilities ([unsupervised self-improving reasoning](https://arxiv.org/abs/2210.11610), [weakly-supervised reasoning](https://arxiv.org/abs/2405.04086)).
+* <em>**Training and Inference Efficiency of Language Models**<em>: I work on improving language model training and inference efficiency ([multi-task efficient inference](https://arxiv.org/abs/2205.10744)).
+* <em>**Data Efficiency for Language Model Training**</em>: I study how language model fine-tuning with limited training data, including data self-generation([1](https://arxiv.org/abs/2211.03044),[2](https://arxiv.org/abs/2202.04538)) and denoising [distant-supervision](https://arxiv.org/abs/2109.05003).
+* <em>**Representation Learning**</em>: I study how the text embedding space could be regularized in different circumstances ([category-based](https://arxiv.org/abs/1908.07162), [joint-categories learning](https://arxiv.org/abs/2010.06705), [contextualized](https://arxiv.org/abs/2202.04582), etc.)
+  
 
 
 Honors and Awards
@@ -52,11 +55,11 @@ Experience
 ======
 * Google Core-ML (2022.06-2022.09)  
   Research Intern  
-  Host: Dr. Le Hou and Dr. Yuexin Wu
+  Host: Dr. [Le Hou](https://scholar.google.com/citations?user=kQ0HeQIAAAAJ&hl=en) and Dr. [Yuexin Wu](https://scholar.google.com/citations?user=sd0nprMAAAAJ&hl=en)
 
 * Google Research (2021.05-2021.08)  
   Research Intern  
-  Host: Dr. Tianqi Liu and Dr. [Jialu Liu](https://jialu.info/)
+  Host: Dr. [Tianqi Liu](https://scholar.google.com/citations?user=pUKhiMIAAAAJ&hl=en) and Dr. [Jialu Liu](https://jialu.info/)
 
 * Microsoft Research Redmond (2020.06-2020.09)  
   Research Intern  
