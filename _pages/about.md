@@ -15,9 +15,9 @@ I am looking for PhD students for 25'Fall and interns year-round! If you are int
 
 Recent Research Interests
 ======
-* <em>**Large Language Model Factuality and Calibration**</em>: I build methods for extracting factual knowledge including structured knowledge([1](https://arxiv.org/abs/2310.07795),[2](https://arxiv.org/abs/2010.06714)), entity recognition(([1](https://arxiv.org/abs/2206.13746)),[2](https://arxiv.org/abs/2012.14978)), [summarizations](https://arxiv.org/abs/2110.08845) in low-resource setting. Recently, I am working on improving language model reliability to align their confidence with performance.
+* <em>**Large Language Model Factuality and Calibration**</em>: I build methods for integrating factual knowledge within language models, including [graphs](https://arxiv.org/abs/2407.09709), ontologies([1](https://arxiv.org/abs/2310.07795),[2](https://arxiv.org/abs/2010.06714)), entities([1](https://arxiv.org/abs/2206.13746),[2](https://arxiv.org/abs/2012.14978)), and applying them for downstream tasks such as [summarizations](https://arxiv.org/abs/2110.08845) in low-resource setting. Recently, I am working on improving language model reliability to align their confidence with performance.
 * <em>**Large Language Model Reasoning**</em>: I investigate how large language model generations can self-improve their reasoning abilities ([unsupervised self-improving reasoning](https://arxiv.org/abs/2210.11610), [weakly-supervised reasoning](https://arxiv.org/abs/2405.04086)).
-* <em>**Training and Inference Efficiency of Language Models**<em>: I work on improving language model training and inference efficiency ([multi-task efficient inference](https://arxiv.org/abs/2205.10744)).
+* <em>**Training and Inference Efficiency of Large Language Models**</em>: I work on improving language model training and inference efficiency ([multi-task efficient inference](https://arxiv.org/abs/2205.10744)).
 * <em>**Data Efficiency for Language Model Training**</em>: I study how language model fine-tuning with limited training data, including data self-generation([1](https://arxiv.org/abs/2211.03044),[2](https://arxiv.org/abs/2202.04538)) and denoising [distant-supervision](https://arxiv.org/abs/2109.05003).
 * <em>**Representation Learning**</em>: I study how the text embedding space could be regularized in different circumstances ([category-based](https://arxiv.org/abs/1908.07162), [joint-categories learning](https://arxiv.org/abs/2010.06705), [contextualized](https://arxiv.org/abs/2202.04582), etc.)
   
@@ -26,9 +26,8 @@ Recent Research Interests
 Honors and Awards
 ======
 Microsoft Research PhD Fellowship  2021-2023  
-ICML Student Travel Award  2023  
-KDD Student Travel Award  2020, 2022  
-Chirag Foundation Graduate Fellowship in Computer Science, UIUC  2018  
+C.W. Gear Outstanding Graduate Award
+Chirag Foundation Graduate Fellowship  
 Outstanding Graduates, Tsinghua University  2018  
 Academic Excellence Scholarship, Tsinghua University  2015-2017  
 China National Scholarship (Top 1%)  2016  
