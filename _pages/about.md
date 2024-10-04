@@ -27,7 +27,7 @@ Recent Research Interests
 Honors and Awards
 ======
 Microsoft Research PhD Fellowship  2021-2023  
-C.W. Gear Outstanding Graduate Award
+C.W. Gear Outstanding Graduate Award  
 Chirag Foundation Graduate Fellowship  
 Outstanding Graduates, Tsinghua University  2018  
 Academic Excellence Scholarship, Tsinghua University  2015-2017  
