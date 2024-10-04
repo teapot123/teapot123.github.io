@@ -12,12 +12,14 @@ I am an Assistant Professor in Computer Science Engineering (CSE) Department, Wa
 
 I am looking for PhD students for 25'Fall and interns year-round! If you are interested in working with me, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeFDUgS0Q6CiH2-SjztPRwPP4DxCED5THhKdTOgIP3fh4LSTw/viewform) . While submitting the form is already sufficient, you are also welcome to reach out to me via email. I will read every email but please understand that I might not be able to respond to each of them due to time constraints.
 
+If you are applying for CSE PhD for 25'Fall, application fee could be waived through attending the [PhD information sessions](https://engineering.washu.edu/academics/graduate-admissions/recruitment-schedule.html) under the Computer Science & Engineering category. 
+
 
 Recent Research Interests
 ======
 * <em>**Large Language Model Factuality**</em>: I build methods for integrating factual knowledge within language models, including graphs([1](https://arxiv.org/abs/2407.09709)), ontologies([1](https://arxiv.org/abs/2310.07795),[2](https://arxiv.org/abs/2010.06714),[3](https://arxiv.org/abs/2007.09536)), entities([1](https://arxiv.org/abs/2206.13746),[2](https://arxiv.org/abs/2012.14978)), and applying them for downstream tasks([1](https://arxiv.org/abs/2110.08845)) in low-resource setting. 
-* <em>**Large Language Model Alignment**</em>: Recently, I am working on improving language model calibration to align their confidence with performance.
 * <em>**Large Language Model Reasoning**</em>: I investigate how large language model generations can self-improve their reasoning abilities ([unsupervised self-improving reasoning](https://arxiv.org/abs/2210.11610), [weakly-supervised reasoning](https://arxiv.org/abs/2405.04086)).
+* <em>**Large Language Model Alignment**</em>: Recently, I am working on improving language model calibration to align their confidence with performance.
 * <em>**Training and Inference Efficiency of Large Language Models**</em>: I work on improving language model training and inference efficiency ([multi-task efficient inference](https://arxiv.org/abs/2205.10744)).
 * <em>**Data Efficiency for Language Model Training**</em>: I study how to better fine-tune language model with limited training data, including data self-generation([1](https://arxiv.org/abs/2211.03044),[2](https://arxiv.org/abs/2202.04538),[3](https://aclanthology.org/2020.emnlp-main.724/)), denoising [distant-supervision](https://arxiv.org/abs/2109.05003) and integrating [metadata](https://arxiv.org/abs/2005.00624).
 * <em>**Representation Learning**</em>: I study how the text embedding space could be regularized in different circumstances ([category-based](https://arxiv.org/abs/1908.07162), [joint-categories learning](https://arxiv.org/abs/2010.06705), [contextualized](https://arxiv.org/abs/2202.04582), etc.)
