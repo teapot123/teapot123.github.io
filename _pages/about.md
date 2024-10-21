@@ -14,6 +14,8 @@ I am looking for PhD students for 25'Fall and interns year-round! If you are int
 
 If you are applying for CSE PhD for 25'Fall, application fee could be waived through attending the [PhD information sessions](https://engineering.washu.edu/academics/graduate-admissions/recruitment-schedule.html) under the Computer Science & Engineering category. 
 
+For students looking for summer internships, please make sure to check out the [REU program](https://engineering.washu.edu/academics/undergraduate-research/international-student-research-internship-program.html), which has an application deadline of 11/13.
+
 
 Recent Research Interests
 ======
