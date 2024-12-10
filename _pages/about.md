@@ -51,7 +51,7 @@ Education
   Advisor: Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/)  
 
 
-Experience
+<!--- # Experience
 ======
 * Google Core-ML (2022.06-2022.09)  
   Research Intern  
@@ -63,7 +63,7 @@ Experience
 
 * Microsoft Research Redmond (2020.06-2020.09)  
   Research Intern  
-  Host: Dr. [Chunyuan Li](http://chunyuan.li/) and Krishan Subudhi  
+  Host: Dr. [Chunyuan Li](http://chunyuan.li/) and Krishan Subudhi  --->
 
 
 
