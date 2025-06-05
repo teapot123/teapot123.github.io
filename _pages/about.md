@@ -10,7 +10,7 @@ redirect_from:
 
 I joined Computer Science & Engineering (CSE) Department at Washington University in St. Louis (WashU) in 2024 as an Assistant Professor. I received my Ph.D. degree in Computer Science Department, UIUC, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). After that, I visited UW as a researcher and worked with Prof. [Hanna Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). Prior to UIUC, I received my Bachelor Degree in Electronic Engineering in Tsinghua University in 2018. My research interest broadly lies in the intersection of natural language processing and machine learning, and I am especially interested in understanding the properties of **language models** as well as improving their **trustworthiness** and **efficiency**.
 
-If you are interested in working with me, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeFDUgS0Q6CiH2-SjztPRwPP4DxCED5THhKdTOgIP3fh4LSTw/viewform).  <span style="color: coral">**Check out [this page](https://teapot123.github.io/application/) for more details!**</span>
+I am looking for PhD students and interns! If you are interested in working with me, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeFDUgS0Q6CiH2-SjztPRwPP4DxCED5THhKdTOgIP3fh4LSTw/viewform).  <span style="color: coral">**Check out [this page](https://teapot123.github.io/application/) for more details!**</span>
 
 
 Recent Research Interests
