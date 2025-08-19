@@ -1,0 +1,300 @@
+---
+layout: archive	
+title: " CSE 5610: Large Language Models (2025 Fall)"
+permalink: /CSE561A_2025fl/
+author_profile: true	  
+---
+
+
+<h2 id="course-overview">Course Overview</h2>
+<p>This is an advanced research-oriented course that teaches fundamentals of Large Language Models (language model architecture and training framework) as well as Large Language Model capabilities, applications and issues. We will be teaching and discussing state-of-the-art papers about large language models.<br>Pre-requisites: Students are expected to understand concepts in machine learning (CSE 417T/517A)</p>
+<h2 id="course-grading">Course Grading</h2>
+<li>15% Preview question submissions</li>
+<li>30% Paper Presentation</li>
+<li>55% Final Project
+<ul>
+<li>10% Project/Survey Proposal</li>
+<li>10% Mid-term Report</li>
+<li>10% Final Project Presentation (Group-based)</li>
+<li>5% Feedbacks for other groups’ final project presentations </li>
+<li>20% Final Project Report</li>
+</ul>
+</li>
+</ul>
+<h2 id="class-presentation">Paper Presentation</h2>
+<p>Grading Criteria:</p>
+<ul>
+<li>Well Preparation: Whether the slides are sent over by the given deadline for the instructors to give feedback<ul>
+<li>For Tuesday classes, send over your slides before the previous Friday 12:00PM</li>
+<li>For Thursday classes, send over your slides before the previous Monday 12:00PM</li>
+</ul>
+</li>
+<li>Completeness: Whether the presentation covers the background and major contribution of the listed papers, and is delivered within the required timeframe</li>
+<li>Clarity: Whether the presenter clearly convey the information from their slides</li>
+<li>Q&amp;A: If there are any raised questions from the audiences, whether the presenters can handle the questions properly</li>
+</ul>
+<h2 id="class-presentation">Preview Questions Submission</h2>
+<p>Each student is required to submit a preview question for a paper to be presented one day before every class (except for the class that you will present). You are also encouraged to raise that question in class.
+Preview questions cannot be simple ones like &quot;what is the aim of the paper?&quot; or &quot;what is the difference between this method and previous methods?&quot;</p>
+<h2 id="final-project-2-3-students-per-group-">Final Project (2-3 students per group)</h2>
+<p>Project Requirement:
+There are typically two types of projects.</p>
+<ol>
+<li>Designing a novel algorithm to train a medium-sized language model: BERT, GPT-2 for problems that you are interested in.</li>
+<li>Designing a novel algorithm to do inference on large language models (white box models such as Qwen, Llama, and DeepSeek series, or black box models such as GPT, Gemini, CLAUDE, etc.) to solve some type of complex problems, and analyze their limitations. </li>
+<ul>
+<li>Find open-weight models here: <a href="https://huggingface.co/models">https://huggingface.co/models</a></li>
+<li><a href="https://platform.openai.com/docs/api-reference/introduction">https://platform.openai.com/docs/api-reference/introduction</a></li>
+<li><a href="https://docs.anthropic.com/claude/reference/getting-started-with-the-api">https://docs.anthropic.com/claude/reference/getting-started-with-the-api</a></li>
+</ul>
+</ol>
+<p>Project Presentation:
+Date: 12/2 and 12/4. You will need to signup for a time slot near the end of the semester.
+Students will need to submit feedback scores for other groups’ presentation (through Google Form).</p>
+<h2 id="office-hour">Office Hour</h2>
+<p>Our office hour will be on-demand ones: If you find yourself needing to discuss course materials or have questions at any point, feel free to send an email requesting an office hour. Based on these requests, we will organize time slots for students to schedule appointments.</p>
+<h2 id="ta">Teaching Assistants</h2>
+<p><strong>Zheyuan Wu</strong>(w.zheyuan@wustl.edu)</p>
+<p><strong>Isle Song</strong>(s.xiaodao@wustl.edu)</p>
+<h2 id="syllabus-the-dates-of-the-courses-are-tentative-due-to-guest-lectures-">Syllabus (The dates of the courses are tentative due to guest lectures.)</h2>
+
+
+<table>
+    <tr>
+        <td>Date</td>
+        <td>Topic</td>
+        <td>Readings</td>
+        <td>Slides</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><strong>Large Language Model Basics</strong></td>
+    </tr>
+    <tr>
+        <td>8/26</td>
+        <td><strong>Course Overview</strong></td>
+        <td><a href="">Distributed Representations of Words and Phrases and their Compositionality (Word2Vec)</a><BR><a href="https://arxiv.org/abs/1607.04606">Enriching Word Vectors with Subword Information</a><BR><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need (Transformer)</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>8/28</td>
+        <td><strong>Language Model Pre-training</strong></td>
+        <td><a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Language Models are Unsupervised Multitask Learners (GPT-2)</a><BR><a href="https://arxiv.org/abs/1810.04805">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a><BR><a href="https://arxiv.org/abs/2003.10555">ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators</a><BR><a href="https://arxiv.org/abs/1910.13461">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9/2</td>
+        <td><strong>Scaling Laws and Emergent Behaviors</strong></td>
+        <td><a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners (GPT-3)</a><BR><a href="https://arxiv.org/abs/2206.07682">Emergent Abilities of Large Language Models</a><BR><a href="https://arxiv.org/abs/2202.12837">Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?</a><BR><a href="https://arxiv.org/abs/2212.10559">Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9/4</td>
+        <td><strong>Post-training (I): Instruction Tuning</strong></td>
+        <td><a href="https://arxiv.org/abs/2110.08207">Multitask Prompted Training Enables Zero-Shot Task Generalization</a><BR><a href="https://arxiv.org/abs/2104.08773">Cross-Task Generalization via Natural Language Crowdsourcing Instructions</a><BR><a href="https://arxiv.org/abs/2212.10560">Self-Instruct: Aligning Language Models with Self-Generated Instructions</a><BR><a href="https://arxiv.org/abs/2305.11206">LIMA: Less Is More for Alignment</a><BR><a href="https://arxiv.org/abs/2306.04751">How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>-----<strong>Student Presentation Starts</strong>-----</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><strong>State-of-the-Art Reasoning and Post-training</strong></td>
+    </tr>
+    <tr>
+        <td>9/9</td>
+        <td><strong>Language Model Reasoning (I): Chain of Thoughts + Inference-Time Scaling</strong></td>
+        <td><a href="https://arxiv.org/pdf/2201.11903.pdf">Chain of Thought Prompting Elicits Reasoning in Large Language Models</a><BR><a href="https://arxiv.org/pdf/2203.11171.pdf">Self-Consistency Improves Chain of Thought Reasoning in Language Models</a><BR><a href="https://arxiv.org/abs/2210.11610">Large Language Models Can Self-Improve</a><BR><a href="https://arxiv.org/abs/2408.03314">Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9/11</td>
+        <td><strong>Language Model Reasoning (II): Thinking in Latent Space</strong></td>
+        <td><a href="https://arxiv.org/abs/2412.06769">Training Large Language Models to Reason in a Continuous Latent Space</a><BR><a href="https://arxiv.org/abs/2412.13171">Compressed Chain of Thought: Efficient Reasoning Through Dense Representations</a><BR><a href="https://arxiv.org/abs/2505.15778">Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space</a><BR><a href="https://www.arxiv.org/abs/2508.03440">LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>-----<strong>Proposal Deadline: 9/15/2025</strong>-----</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9/16</td>
+        <td><strong>Post-training (II): Reinforcement Learning from Human Feedback</strong></td>
+        <td><a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a><BR><a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a><BR><a href="https://arxiv.org/abs/2405.14734">SimPO: Simple Preference Optimization with a Reference-Free Reward</a><BR><a href="https://arxiv.org/abs/2306.01693">Fine-Grained Human Feedback Gives Better Rewards for Language Model Training</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9/18</td>
+        <td><strong>Post-training (III): Reinforcement Learning from Verified Rewards</strong></td>
+        <td><a href="https://arxiv.org/pdf/2501.12948">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a><BR><a href="https://arxiv.org/abs/2503.14476">DAPO: An Open-Source LLM Reinforcement Learning System at Scale</a><BR><a href="https://arxiv.org/abs/2504.13837">Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?</a><BR><a href="https://arxiv.org/abs/2501.17161">SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><strong>Efficient Methods for Large Language Models</strong></td>
+    </tr>
+    <tr>
+        <td>9/23</td>
+        <td><strong>Efficient Fine-Tuning</strong></td>
+        <td><a href="https://arxiv.org/abs/2104.08691">The Power of Scale for Parameter-Efficient Prompt Tuning</a><BR><a href="https://arxiv.org/abs/1902.00751">Parameter-Efficient Transfer Learning for NLP</a><BR><a href="https://arxiv.org/abs/2106.09685">LoRA: Low-Rank Adaptation of Large Language Models</a><BR><a href="https://arxiv.org/abs/2402.09353">DoRA: Weight-Decomposed Low-Rank Adaptation</a></td>
+        <td></td>
+    </tr>
+   <tr>
+        <td>9/25</td>
+        <td><strong>Efficient RLVR (Data & Computation)</strong></td>
+        <td><a href="https://arxiv.org/pdf/2506.02177">Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts</a><BR><a href="https://arxiv.org/abs/2506.10947">Spurious Rewards: Rethinking Training Signals in RLVR</a><BR><a href="https://arxiv.org/abs/2506.01347">The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning</a><BR><a href="https://www.arxiv.org/pdf/2508.05004">R-Zero: Self-Evolving Reasoning LLM from Zero Data</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9/30</td>
+        <td><strong>Efficient Inference</strong></td>
+        <td><a href="https://arxiv.org/abs/2211.17192">Fast Inference from Transformers via Speculative Decoding</a><BR><a href="https://arxiv.org/abs/2401.10774">Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads</a><BR><a href="https://arxiv.org/abs/2210.03162">Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models</a><BR><a href="https://arxiv.org/abs/2305.14788">Adapting Language Models to Compress Contexts</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10/2</td>
+        <td><strong>Long-Context Language Models</strong></td>
+        <td><a href="https://arxiv.org/abs/2307.02486">LongNet: Scaling Transformers to 1B Tokens</a><BR><a href="https://arxiv.org/abs/2309.12307">LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</a><BR><a href="https://arxiv.org/abs/2307.03172">Lost in the Middle: How Language Models Use Long Contexts</a><BR><a href="https://arxiv.org/abs/2203.08913">Memorizing Transformers</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10/7</td>
+        <td><strong>----Fall Break-----</strong></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10/9</td>
+        <td><strong>No class (TBD)</strong></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><strong>Large Language Model Factuality</strong></td>
+    </tr>
+    <tr>
+        <td>10/14</td>
+        <td><strong>LLM Hallucination and Solutions</strong></td>
+        <td><a href="https://arxiv.org/abs/2305.14325">Improving Factuality and Reasoning in Language Models through Multiagent Debate</a><BR><a href="https://arxiv.org/abs/2305.13534">How Language Model Hallucinations Can Snowball</a><BR><a href="https://arxiv.org/abs/2305.14739">Trusting Your Evidence: Hallucinate Less with Context-aware Decoding</a><BR><a href="https://aclanthology.org/2023.emnlp-main.949.pdf">Hallucination Detection for Generative Large Language Models by Bayesian Sequential Estimation</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10/16</td>
+        <td><strong>Language Model Calibration</strong></td>
+        <td><a href="https://arxiv.org/abs/2205.14334">Teaching models to express their uncertainty in words</a><BR><a href="https://arxiv.org/abs/2305.10425">SLiC-HF: Sequence Likelihood Calibration with Human Feedback</a><BR><a href="https://arxiv.org/abs/2302.13439">Navigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models</a><BR><a href="https://arxiv.org/abs/2305.14975">Just Ask for Calibration</a></td>
+        <td></td>
+    </tr>
+   <tr>
+        <td></td>
+        <td>-----<strong>Mid-Term Report Deadline: 10/20</strong>-----</td>
+        <td></td>
+        <td></td>
+    </tr>  
+    <tr>
+        <td>10/21</td>
+        <td><strong>Retrieval Augmentation Generation</strong></td>
+        <td><a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a><BR><a href="https://arxiv.org/abs/2307.11019">Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation</a><BR><a href="https://arxiv.org/abs/2301.12652">REPLUG: Retrieval-Augmented Black-Box Language Models</a><BR><a href="https://arxiv.org/abs/2310.11511">Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><strong>Large Language Model Applications</strong></td>
+    </tr>
+    <tr>
+        <td>10/23</td>
+        <td><strong>Language Models as Agents</strong></td>
+        <td><a href="https://arxiv.org/abs/2302.04761">Toolformer: Language Models Can Teach Themselves to Use Tools</a><BR><a href="https://arxiv.org/abs/2307.16789">ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs</a><BR><a href="https://arxiv.org/abs/2303.09014">ART: Automatic multi-step reasoning and tool-use for large language models</a><a href="https://arxiv.org/abs/2304.11477">LLM+P: Empowering Large Language Models with Optimal Planning Proficiency</a><BR></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10/28</td>
+        <td><strong>Agentic RAG</strong></td>
+        <td><a href="https://arxiv.org/abs/2403.14403">Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity</a><BR><a href="https://arxiv.org/abs/2411.19443">Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models</a><BR><a href="https://arxiv.org/abs/2501.05366">Search-o1: Agentic Search-Enhanced Large Reasoning Models</a><BR><a href="https://arxiv.org/abs/2503.09516">Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10/30</td>
+        <td><strong>Multi-modal LLMs</strong></td>
+        <td><a href="https://arxiv.org/abs/2305.11175">VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks</a><BR><a href="https://arxiv.org/abs/2304.08485">Visual Instruction Tuning</a><BR><a href="https://arxiv.org/abs/2309.05519">NExT-GPT: Any-to-Any Multimodal LLM</a><BR><a href="https://arxiv.org/abs/2305.10355">Evaluating Object Hallucination in Large Vision-Language Models</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><strong>Large Language Model Evaluation</strong></td>
+    </tr>
+    <tr>
+        <td>11/4</td>
+        <td><strong>Evaluation of Language Models</strong></td>
+        <td><a href="https://arxiv.org/abs/2310.17623">Proving Test Set Contamination in Black Box Language Models</a><BR><a href="https://arxiv.org/abs/2305.01210">Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation</a><BR><a href="https://aclanthology.org/2024.acl-long.511/">Large Language Models are not Fair Evaluators</a><BR><a href="https://arxiv.org/abs/2211.09110">Holistic Evaluation of Language Models</a></td>
+        <td></td>
+    </tr>  
+    <tr>
+        <td>11/6</td>
+        <td><strong>Detection of LLM Generation</strong></td>
+        <td><a href="https://arxiv.org/abs/2301.11305">DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature</a><BR><a href="https://arxiv.org/abs/2310.06202">GPT-who: An Information Density-based Machine-Generated Text Detector</a><BR><a href="https://arxiv.org/abs/2301.10226">A Watermark for Large Language Models</a><BR><a href="https://arxiv.org/abs/2305.07969">GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><strong>Other Topics</strong></td>
+    </tr>
+    <tr>
+        <td>11/11</td>
+        <td><strong>Revisiting Other Language Model Architectures</strong></td>
+        <td><a href="https://arxiv.org/abs/2405.21060">Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality</a><BR><a href="https://arxiv.org/abs/2305.13048">RWKV: Reinventing RNNs for the Transformer Era</a><BR><a href="https://arxiv.org/abs/2506.21734">Hierarchical Reasoning Model</a><BR><a href="https://arxiv.org/abs/2210.08933">DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11/13</td>
+        <td><strong>Language Model Bias</strong></td>
+        <td><a href="https://arxiv.org/abs/1707.09457">Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints</a><BR><a href="https://arxiv.org/abs/2303.17548">Whose Opinions Do Language Models Reflect?</a><BR><a href="https://aclanthology.org/2023.findings-emnlp.243/">“Kelly is a Warm Person, Joseph is a Role Model”: Gender Biases in LLM-Generated Reference Letters</a><BR><a href="https://arxiv.org/abs/2202.03286">Red Teaming Language Models with Language Models</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11/18</td>
+        <td><strong>Language Model Safety</strong></td>
+        <td><a href="https://arxiv.org/abs/2304.05197">Multi-step Jailbreaking Privacy Attacks on ChatGPT</a><BR><a href="https://arxiv.org/abs/2310.08419">Jailbreaking Black Box Large Language Models in Twenty Queries</a><BR><a href="https://arxiv.org/abs/2202.07646">Quantifying Memorization Across Neural Language Models</a><BR><a href="https://arxiv.org/abs/2305.00944">Poisoning Language Models During Instruction Tuning</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11/20</td>
+        <td><strong>Guest Lecture</strong></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11/25</td>
+        <td><strong>Guest Lecture</strong></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11/27</td>
+        <td>----No Class-----</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>-----<strong>Project Presentation Deadline: 12/1</strong>-----</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>12/2</td>
+        <td><strong>Final Project Presentation I</strong></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>12/4</td>
+        <td><strong>Final Project Presentation II</strong></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>-----<strong>Project Final Report Deadline: 12/12</strong>-----</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
