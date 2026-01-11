@@ -15,9 +15,9 @@ I am looking for PhD students and interns! If you are interested in working with
 
 Recent Research Interests
 ======
-* <em>**Training and Inference Efficiency of Large Language Models**</em>: I work on improving language model training and inference efficiency, <span style="color: coral">see our recent work on</span> [test-time scaling](https://arxiv.org/abs/2503.00031), [speculative decoding](https://arxiv.org/abs/2506.03566) and [long in-context learning](https://arxiv.org/abs/2410.10074v1).
-* <em>**Large Language Model Reasoning**</em>: I investigate how large language model reasoning capabilities on text ([unsupervised self-improving reasoning](https://arxiv.org/abs/2210.11610), [weakly-supervised reasoning](https://arxiv.org/abs/2405.04086)) and <span style="color: coral">vision tasks</span> ([crossword puzzles](https://arxiv.org/abs/2504.00043)).
-* <em>**Large Language Model Alignment**</em>: I work on improving language model calibration to align their confidence with performance, <span style="color: coral">see our recent work on</span> [reward calibration in RLHF](https://arxiv.org/abs/2410.09724).
+* <em>**Training and Inference Efficiency of Large Language Models**</em>: I work on improving language model training and inference efficiency, including [collaborative decoding](https://www.arxiv.org/abs/2601.05167), [test-time scaling](https://arxiv.org/abs/2503.00031), [speculative decoding](https://arxiv.org/abs/2506.03566) and [long in-context learning](https://arxiv.org/abs/2410.10074v1).
+* <em>**Large Language Model Reasoning**</em>: I investigate how large language model reasoning capabilities can be self-improved through [SFT](https://arxiv.org/abs/2210.11610) and RL ([text](https://www.arxiv.org/abs/2508.05004) and [visual](https://www.arxiv.org/abs/2511.15661)), as well as their evaluation on structured tasks like [crossword puzzles](https://arxiv.org/abs/2504.00043).
+* <em>**Large Language Model Alignment**</em>: I work on improving language model calibration to align their confidence with performance, including [reward calibration in RLHF](https://arxiv.org/abs/2410.09724).
 * <em>**Large Language Model Factuality**</em>: I build methods for integrating factual knowledge within language models, including graphs([1](https://arxiv.org/abs/2407.09709)), ontologies([1](https://arxiv.org/abs/2310.07795),[2](https://arxiv.org/abs/2010.06714),[3](https://arxiv.org/abs/2007.09536)), entities([1](https://arxiv.org/abs/2206.13746),[2](https://arxiv.org/abs/2012.14978)), and applying them for downstream tasks([1](https://arxiv.org/abs/2110.08845)) in low-resource setting. 
 * <em>**Data Efficiency for Language Model Training**</em>: I study how to better fine-tune language model with limited training data, including data self-generation([1](https://arxiv.org/abs/2211.03044),[2](https://arxiv.org/abs/2202.04538),[3](https://aclanthology.org/2020.emnlp-main.724/)), denoising [distant-supervision](https://arxiv.org/abs/2109.05003) and integrating [metadata](https://arxiv.org/abs/2005.00624).
 * <em>**Representation Learning**</em>: I study how the text embedding space could be regularized in different circumstances ([category-based](https://arxiv.org/abs/1908.07162), [joint-categories learning](https://arxiv.org/abs/2010.06705), [contextualized](https://arxiv.org/abs/2202.04582), etc.)
@@ -64,6 +64,7 @@ Education
 * Microsoft Research Redmond (2020.06-2020.09)  
   Research Intern  
   Host: Dr. [Chunyuan Li](http://chunyuan.li/) and Krishan Subudhi  --->
+
 
 
 
