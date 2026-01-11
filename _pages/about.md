@@ -26,6 +26,7 @@ Recent Research Interests
 
 Honors and Awards
 ======
+AAAI New Faculty Highlight Program  2026  
 Microsoft Research PhD Fellowship  2021-2023  
 C.W. Gear Outstanding Graduate Award  
 Chirag Foundation Graduate Fellowship  
@@ -64,6 +65,7 @@ Education
 * Microsoft Research Redmond (2020.06-2020.09)  
   Research Intern  
   Host: Dr. [Chunyuan Li](http://chunyuan.li/) and Krishan Subudhi  --->
+
 
 
 
