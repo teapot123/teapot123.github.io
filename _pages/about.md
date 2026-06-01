@@ -13,6 +13,20 @@ I joined Computer Science & Engineering (CSE) Department at Washington Universit
 I am looking for PhD students and interns! If you are interested in working with me, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeFDUgS0Q6CiH2-SjztPRwPP4DxCED5THhKdTOgIP3fh4LSTw/viewform).  <span style="color: coral">**Check out [this page](https://teapot123.github.io/application/) for more details!**</span>
 
 
+News
+======
+<div style="background-color: #fff5f0; border: 2px solid coral; border-radius: 8px; padding: 20px 24px; margin: 15px 0">
+<ul style="line-height:26px; margin-bottom: 0; padding-left: 22px">
+  <li><span style="color: coral"><strong>[May 2026]</strong></span> Received the <strong>NSF CAREER Award</strong>!</li>
+  <li><span style="color: coral"><strong>[May 2026]</strong></span> Three papers accepted to ICML 2026: <em>Training Data Efficiency in Multimodal Process Reward Models</em>, <em>Parallel-Probe</em>, and <em>Rethinking the Reranker</em>.</li>
+  <li><span style="color: coral"><strong>[Feb 2026]</strong></span> <em>VisPlay</em> accepted to CVPR 2026.</li>
+  <li><span style="color: coral"><strong>[Jan 2026]</strong></span> Selected for the <strong>AAAI New Faculty Highlight Program 2026</strong>.</li>
+  <li><span style="color: coral"><strong>[Jan 2026]</strong></span> Two papers accepted to ICLR 2026: <em>R-Zero</em> and <em>Self-Calibration</em>.</li>
+  <li><span style="color: coral"><strong>[Dec 2025]</strong></span> <em>Divide, Reweight, and Conquer (LARA)</em> accepted to EACL 2026 with oral presentation.</li>
+</ul>
+</div>
+
+
 Recent Research Interests
 ======
 * <em>**Training and Inference Efficiency of Large Language Models**</em>: I work on improving language model training and inference efficiency, including [collaborative decoding](https://www.arxiv.org/abs/2601.05167), [test-time scaling](https://arxiv.org/abs/2503.00031), [speculative decoding](https://arxiv.org/abs/2506.03566), [parallel thinking](https://arxiv.org/abs/2602.03845), [long in-context learning](https://arxiv.org/abs/2410.10074v1), and [efficient RLVR training](https://arxiv.org/abs/2605.21468).
@@ -24,8 +38,11 @@ Recent Research Interests
   
 
 
+<a id="awards"></a>
+
 Honors and Awards
 ======
+NSF CAREER Award  2026  
 AAAI New Faculty Highlight Program  2026  
 Microsoft Research PhD Fellowship  2021-2023  
 C.W. Gear Outstanding Graduate Award  
@@ -36,6 +53,7 @@ China National Scholarship (Top 1%)  2016
 Samsung Scholarship  2015  
 
  
+<!---
 Education
 ======
 * University of Illinois, Urbana-Champaign (2018.08-2023.12)  
@@ -50,6 +68,8 @@ Education
 * University of California, Los Angeles (2017.07-2017.09)  
   CSST summer program  
   Advisor: Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/)  
+--->
+
 
 
 <!--- # Experience

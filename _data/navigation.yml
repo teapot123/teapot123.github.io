@@ -21,10 +21,13 @@ main:
     url: /cv1/
 
   - title: "Group"
-    url: /group/    
+    url: /group/
+
+  - title: "Awards"
+    url: /#awards
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
     
     
   # - title: "Guide"
