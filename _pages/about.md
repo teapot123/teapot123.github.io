@@ -18,11 +18,11 @@ News
 <div style="background-color: #fff5f0; border: 2px solid coral; border-radius: 8px; padding: 20px 24px; margin: 15px 0">
 <ul style="line-height:26px; margin-bottom: 0; padding-left: 22px">
   <li><span style="color: coral"><strong>[May 2026]</strong></span> Received the <strong>NSF CAREER Award</strong>!</li>
-  <li><span style="color: coral"><strong>[May 2026]</strong></span> Three papers accepted to ICML 2026: <em>Training Data Efficiency in Multimodal Process Reward Models</em>, <em>Parallel-Probe</em>, and <em>Rethinking the Reranker</em>.</li>
-  <li><span style="color: coral"><strong>[Feb 2026]</strong></span> <em>VisPlay</em> accepted to CVPR 2026.</li>
+  <li><span style="color: coral"><strong>[May 2026]</strong></span> Three papers accepted to ICML 2026: <em><a href="https://arxiv.org/abs/2602.04145" target="_blank">Training Data Efficiency in Multimodal Process Reward Models</a></em>, <em><a href="https://arxiv.org/abs/2602.03845" target="_blank">Parallel-Probe</a></em>, and <em><a href="https://arxiv.org/abs/2602.03689" target="_blank">Rethinking the Reranker</a></em>.</li>
+  <li><span style="color: coral"><strong>[Feb 2026]</strong></span> <em><a href="https://www.arxiv.org/abs/2511.15661" target="_blank">VisPlay</a></em> accepted to CVPR 2026.</li>
   <li><span style="color: coral"><strong>[Jan 2026]</strong></span> Selected for the <strong>AAAI New Faculty Highlight Program 2026</strong>.</li>
-  <li><span style="color: coral"><strong>[Jan 2026]</strong></span> Two papers accepted to ICLR 2026: <em>R-Zero</em> and <em>Self-Calibration</em>.</li>
-  <li><span style="color: coral"><strong>[Dec 2025]</strong></span> <em>Divide, Reweight, and Conquer (LARA)</em> accepted to EACL 2026 with oral presentation.</li>
+  <li><span style="color: coral"><strong>[Jan 2026]</strong></span> Two papers accepted to ICLR 2026: <em><a href="https://www.arxiv.org/abs/2508.05004" target="_blank">R-Zero</a></em> and <em><a href="https://arxiv.org/abs/2503.00031" target="_blank">Self-Calibration</a></em>.</li>
+  <li><span style="color: coral"><strong>[Dec 2025]</strong></span> <em><a href="https://arxiv.org/abs/2410.10074v1" target="_blank">Divide, Reweight, and Conquer (LARA)</a></em> accepted to EACL 2026 with oral presentation.</li>
 </ul>
 </div>
 
