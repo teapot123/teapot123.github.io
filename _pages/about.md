@@ -20,6 +20,7 @@ News
 <div style="background-color: #fff5f0; border: 2px solid coral; border-radius: 8px; padding: 20px 24px; margin: 15px 0">
 <ul style="line-height:26px; margin-bottom: 0; padding-left: 22px">
   <li><span style="color: coral"><strong>[May 2026]</strong></span> Received the <strong>NSF CAREER Award</strong>!</li>
+  <li><span style="color: coral"><strong>[May 2026]</strong></span> Received the <strong>WashU AI for Health Grant</strong>!</li>
   <li><span style="color: coral"><strong>[May 2026]</strong></span> Three papers accepted to ICML 2026: <em><a href="https://arxiv.org/abs/2602.04145" target="_blank">Training Data Efficiency in Multimodal Process Reward Models</a></em>, <em><a href="https://arxiv.org/abs/2602.03845" target="_blank">Parallel-Probe</a></em>, and <em><a href="https://arxiv.org/abs/2602.03689" target="_blank">Rethinking the Reranker</a></em>.</li>
   <li><span style="color: coral"><strong>[Feb 2026]</strong></span> <em><a href="https://www.arxiv.org/abs/2511.15661" target="_blank">VisPlay</a></em> accepted to CVPR 2026.</li>
   <li><span style="color: coral"><strong>[Jan 2026]</strong></span> Selected for the <strong>AAAI New Faculty Highlight Program 2026</strong>.</li>
