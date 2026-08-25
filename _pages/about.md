@@ -19,6 +19,7 @@ News
 ======
 <div style="background-color: #fff5f0; border: 2px solid coral; border-radius: 8px; padding: 20px 24px; margin: 15px 0">
 <ul style="line-height:26px; margin-bottom: 0; padding-left: 22px">
+  <li><span style="color: coral"><strong>[Aug 2026]</strong></span> Two papers accepted to EMNLP 2026: <em><a href="https://www.arxiv.org/abs/2601.05167" target="_blank">RelayLLM</a></em> and <em><a href="https://arxiv.org/abs/2605.05566" target="_blank">Nonsense Helps (LoPE)</a></em>.</li>
   <li><span style="color: coral"><strong>[Jun 2026]</strong></span> <em><a href="https://openreview.net/forum?id=ugRJVwcjbZ" target="_blank">SPEED</a></em> accepted to COLM 2026. See you in San Francisco!</li>
   <li><span style="color: coral"><strong>[May 2026]</strong></span> Received the <strong>NSF CAREER Award</strong>!</li>
   <li><span style="color: coral"><strong>[May 2026]</strong></span> Received the <strong>WashU AI for Health Grant</strong>!</li>
@@ -26,7 +27,6 @@ News
   <li><span style="color: coral"><strong>[Feb 2026]</strong></span> <em><a href="https://www.arxiv.org/abs/2511.15661" target="_blank">VisPlay</a></em> accepted to CVPR 2026.</li>
   <li><span style="color: coral"><strong>[Jan 2026]</strong></span> Selected for the <strong>AAAI New Faculty Highlight Program 2026</strong>.</li>
   <li><span style="color: coral"><strong>[Jan 2026]</strong></span> Two papers accepted to ICLR 2026: <em><a href="https://www.arxiv.org/abs/2508.05004" target="_blank">R-Zero</a></em> and <em><a href="https://arxiv.org/abs/2503.00031" target="_blank">Self-Calibration</a></em>.</li>
-  <li><span style="color: coral"><strong>[Dec 2025]</strong></span> <em><a href="https://arxiv.org/abs/2410.10074v1" target="_blank">Divide, Reweight, and Conquer (LARA)</a></em> accepted to EACL 2026 with oral presentation.</li>
 </ul>
 </div>
 
