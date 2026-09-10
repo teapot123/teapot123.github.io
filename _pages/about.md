@@ -33,13 +33,84 @@ News
 
 Recent Research Interests
 ======
-* <em>**Training and Inference Efficiency of Large Language Models**</em>: I work on improving language model training and inference efficiency, including [collaborative decoding](https://www.arxiv.org/abs/2601.05167), [test-time scaling](https://arxiv.org/abs/2503.00031), [speculative decoding](https://arxiv.org/abs/2506.03566), [parallel thinking](https://arxiv.org/abs/2602.03845), [long in-context learning](https://arxiv.org/abs/2410.10074v1), and [efficient RLVR training](https://arxiv.org/abs/2605.21468).
-* <em>**Large Language Model Reasoning**</em>: I investigate how large language model reasoning capabilities can be self-improved through [SFT](https://arxiv.org/abs/2210.11610), RL ([text](https://www.arxiv.org/abs/2508.05004) and [visual](https://www.arxiv.org/abs/2511.15661)) with broader [exploration](https://arxiv.org/abs/2605.05566), and [weak supervision](https://arxiv.org/abs/2405.04086), as well as their evaluation on structured tasks like [crossword puzzles](https://arxiv.org/abs/2504.00043).
-* <em>**Large Language Model Alignment**</em>: I work on improving language model calibration to align their confidence with performance, including [reward calibration in RLHF](https://arxiv.org/abs/2410.09724) and [calibrated process rewards](https://arxiv.org/abs/2605.15529).
-* <em>**Large Language Model Factuality**</em>: I build methods for integrating factual knowledge within language models, including graphs([1](https://arxiv.org/abs/2407.09709)), ontologies([1](https://arxiv.org/abs/2310.07795),[2](https://arxiv.org/abs/2010.06714),[3](https://arxiv.org/abs/2007.09536)), entities([1](https://arxiv.org/abs/2206.13746),[2](https://arxiv.org/abs/2012.14978)), retrieval([1](https://arxiv.org/abs/2602.03689)), and applying them for downstream tasks([1](https://arxiv.org/abs/2110.08845)) in low-resource setting. 
-* <em>**Data Efficiency for Language Model Training**</em>: I study how to better fine-tune language model with limited training data, including data self-generation([1](https://arxiv.org/abs/2211.03044),[2](https://arxiv.org/abs/2202.04538),[3](https://aclanthology.org/2020.emnlp-main.724/),[4](https://arxiv.org/abs/2605.09959)), denoising [distant-supervision](https://arxiv.org/abs/2109.05003), integrating [metadata](https://arxiv.org/abs/2005.00624), and [data efficiency for multimodal reward models](https://arxiv.org/abs/2602.04145).
-* <em>**Representation Learning**</em>: I study how the text embedding space could be regularized in different circumstances ([category-based](https://arxiv.org/abs/1908.07162), [joint-categories learning](https://arxiv.org/abs/2010.06705), [contextualized](https://arxiv.org/abs/2202.04582), etc.)
-  
+
+<style>
+.rc-title {
+  color: #c2552f;
+  font-size: 1.12em;
+  font-weight: 700;
+  line-height: 1.35;
+  margin: 30px 0 3px;
+  padding-left: 13px;
+  border-left: 5px solid coral;
+}
+.rc-desc {
+  margin: 0 0 10px 18px;
+  color: #7b7b7b;
+  font-style: italic;
+  font-size: 0.95em;
+}
+.rc-title + .rc-desc + ul {
+  list-style: none;
+  padding-left: 18px;
+  margin-top: 0;
+}
+.rc-title + .rc-desc + ul > li {
+  margin: 0 0 8px;
+  line-height: 1.5;
+}
+.rc-venue {
+  display: inline-block;
+  min-width: 92px;
+  text-align: center;
+  background: #fff1ec;
+  color: #c2552f;
+  border: 1px solid #ffd6c7;
+  border-radius: 4px;
+  padding: 1px 8px;
+  margin-right: 8px;
+  font-size: 0.78em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  vertical-align: 1px;
+}
+.rc-authors { color: #6b6b6b; font-size: 0.92em; }
+</style>
+
+My group studies how to make language models **self-improving**, **efficient**, and **trustworthy**. Selected recent work:
+
+<h3 class="rc-title">Self-Evolving Models: Learning without Human-Curated Data</h3>
+<p class="rc-desc">Training models that generate their own tasks, data, and environments.</p>
+
+* <span class="rc-venue">ICLR 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://www.arxiv.org/abs/2508.05004)**
+* <span class="rc-venue">CVPR 2026</span> <span class="rc-authors">Yicheng He <em>et al.</em></span> **[VisPlay: Self-Evolving Vision-Language Models from Images](https://www.arxiv.org/abs/2511.15661)**
+* <span class="rc-venue">Preprint 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[G-Zero: Self-Play for Open-Ended Generation from Zero Data](https://arxiv.org/abs/2605.09959)**
+* <span class="rc-venue">Preprint 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[EnvHarness: Awakening Static Worlds for Agent Learning](https://arxiv.org/abs/2608.19880)**
+* <span class="rc-venue">EMNLP 2023</span> <span class="rc-authors">Jiaxin Huang <em>et al.</em></span> **[Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)**
+
+<h3 class="rc-title">Reinforcement Learning and Exploration for Reasoning</h3>
+<p class="rc-desc">How reasoning improves under RL, and how to keep exploration broad.</p>
+
+* <span class="rc-venue">Preprint 2026</span> <span class="rc-authors">Zhepei Wei <em>et al.</em></span> **[You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories](https://arxiv.org/abs/2605.21468)**
+* <span class="rc-venue">EMNLP 2026</span> <span class="rc-authors">Langlin Huang <em>et al.</em></span> **[Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration](https://arxiv.org/abs/2605.05566)**
+* <span class="rc-venue">COLM 2025</span> <span class="rc-authors">Jixuan Leng <em>et al.</em></span> **[CrossWordBench: Evaluating the Reasoning Capabilities of LLMs with Controllable Puzzle Generation](https://arxiv.org/abs/2504.00043)**
+
+<h3 class="rc-title">Efficient Reasoning and Inference</h3>
+<p class="rc-desc">Reducing the cost of long reasoning chains at training and inference time.</p>
+
+* <span class="rc-venue">EMNLP 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[RelayLLM: Efficient Reasoning via Collaborative Decoding](https://www.arxiv.org/abs/2601.05167)**
+* <span class="rc-venue">COLM 2026</span> <span class="rc-authors">Langlin Huang <em>et al.</em></span> **[SPEED: Position Specialist Generates Better Draft for Speculative Decoding](https://arxiv.org/abs/2506.03566)**
+* <span class="rc-venue">ICML 2026</span> <span class="rc-authors">Tong Zheng <em>et al.</em></span> **[Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing](https://arxiv.org/abs/2602.03845)**
+* <span class="rc-venue">EACL 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[Divide, Reweight, and Conquer: A Logit Arithmetic Approach for In-Context Learning](https://arxiv.org/abs/2410.10074v1)**
+
+<h3 class="rc-title">Reward Modeling and Calibration</h3>
+<p class="rc-desc">Making reward signals and model confidence reliable enough to train on.</p>
+
+* <span class="rc-venue">ICLR 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[Efficient Test-Time Scaling via Self-Calibration](https://arxiv.org/abs/2503.00031)**
+* <span class="rc-venue">ICML 2026</span> <span class="rc-authors">Jinyuan Li <em>et al.</em></span> **[Training Data Efficiency in Multimodal Process Reward Models](https://arxiv.org/abs/2602.04145)**
+* <span class="rc-venue">ICLR 2025</span> <span class="rc-authors">Jixuan Leng <em>et al.</em></span> **[Taming Overconfidence in LLMs: Reward Calibration in RLHF](https://arxiv.org/abs/2410.09724)**
+* <span class="rc-venue">Preprint 2026</span> <span class="rc-authors">Jinyuan Li <em>et al.</em></span> **[Process Rewards with Learned Reliability](https://arxiv.org/abs/2605.15529)**
+
 
 
 <a id="awards"></a>
