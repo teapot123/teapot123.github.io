@@ -19,6 +19,7 @@ News
 ======
 <div style="background-color: #fff5f0; border: 2px solid coral; border-radius: 8px; padding: 20px 24px; margin: 15px 0">
 <ul style="line-height:26px; margin-bottom: 0; padding-left: 22px">
+  <li><span style="color: coral"><strong>[Sep 2026]</strong></span> Two papers accepted to NeurIPS 2026: <em><a href="https://arxiv.org/abs/2605.09959" target="_blank">G-Zero</a></em> (<span style="color: #cc0000"><strong>spotlight</strong></span>, top 1.3%) and <em><a href="https://arxiv.org/abs/2605.21468" target="_blank">Minimal RLVR</a></em>. See you in Atlanta!</li>
   <li><span style="color: coral"><strong>[Aug 2026]</strong></span> Two papers accepted to EMNLP 2026: <em><a href="https://www.arxiv.org/abs/2601.05167" target="_blank">RelayLLM</a></em> and <em><a href="https://arxiv.org/abs/2605.05566" target="_blank">Nonsense Helps (LoPE)</a></em>.</li>
   <li><span style="color: coral"><strong>[Jun 2026]</strong></span> <em><a href="https://openreview.net/forum?id=ugRJVwcjbZ" target="_blank">SPEED</a></em> accepted to COLM 2026. See you in San Francisco!</li>
   <li><span style="color: coral"><strong>[May 2026]</strong></span> Received the <strong>NSF CAREER Award</strong>!</li>
@@ -75,6 +76,14 @@ Recent Research Interests
   vertical-align: 1px;
 }
 .rc-authors { color: #6b6b6b; font-size: 0.92em; }
+.rc-spotlight {
+  color: #cc0000;
+  font-size: 0.8em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-left: 6px;
+}
 </style>
 
 My group studies how to make language models **self-improving**, **efficient**, and **trustworthy**. Selected recent work:
@@ -84,14 +93,14 @@ My group studies how to make language models **self-improving**, **efficient**, 
 
 * <span class="rc-venue">ICLR 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://www.arxiv.org/abs/2508.05004)**
 * <span class="rc-venue">CVPR 2026</span> <span class="rc-authors">Yicheng He <em>et al.</em></span> **[VisPlay: Self-Evolving Vision-Language Models from Images](https://www.arxiv.org/abs/2511.15661)**
-* <span class="rc-venue">Preprint 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[G-Zero: Self-Play for Open-Ended Generation from Zero Data](https://arxiv.org/abs/2605.09959)**
+* <span class="rc-venue">NeurIPS 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[G-Zero: Self-Play for Open-Ended Generation from Zero Data](https://arxiv.org/abs/2605.09959)** <span class="rc-spotlight">spotlight</span>
 * <span class="rc-venue">Preprint 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[EnvHarness: Awakening Static Worlds for Agent Learning](https://arxiv.org/abs/2608.19880)**
 * <span class="rc-venue">EMNLP 2023</span> <span class="rc-authors">Jiaxin Huang <em>et al.</em></span> **[Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)**
 
 <h3 class="rc-title">Reinforcement Learning and Exploration for Reasoning</h3>
 <p class="rc-desc">How reasoning improves under RL, and how to keep exploration broad.</p>
 
-* <span class="rc-venue">Preprint 2026</span> <span class="rc-authors">Zhepei Wei <em>et al.</em></span> **[You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories](https://arxiv.org/abs/2605.21468)**
+* <span class="rc-venue">NeurIPS 2026</span> <span class="rc-authors">Zhepei Wei <em>et al.</em></span> **[You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories](https://arxiv.org/abs/2605.21468)**
 * <span class="rc-venue">EMNLP 2026</span> <span class="rc-authors">Langlin Huang <em>et al.</em></span> **[Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration](https://arxiv.org/abs/2605.05566)**
 * <span class="rc-venue">COLM 2025</span> <span class="rc-authors">Jixuan Leng <em>et al.</em></span> **[CrossWordBench: Evaluating the Reasoning Capabilities of LLMs with Controllable Puzzle Generation](https://arxiv.org/abs/2504.00043)**
 
