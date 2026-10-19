@@ -94,6 +94,7 @@ My group studies how to make language models **self-improving**, **efficient**, 
 * <span class="rc-venue">ICLR 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://www.arxiv.org/abs/2508.05004)**
 * <span class="rc-venue">CVPR 2026</span> <span class="rc-authors">Yicheng He <em>et al.</em></span> **[VisPlay: Self-Evolving Vision-Language Models from Images](https://www.arxiv.org/abs/2511.15661)**
 * <span class="rc-venue">NeurIPS 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[G-Zero: Self-Play for Open-Ended Generation from Zero Data](https://arxiv.org/abs/2605.09959)** <span class="rc-spotlight">spotlight</span>
+* <span class="rc-venue">Preprint 2026</span> <span class="rc-authors">Jinyuan Li <em>et al.</em></span> **[Questioning the Questions: Sustaining Self-Evolution in Reasoning Models](https://arxiv.org/abs/2610.04299)**
 * <span class="rc-venue">Preprint 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[EnvHarness: Awakening Static Worlds for Agent Learning](https://arxiv.org/abs/2608.19880)**
 * <span class="rc-venue">EMNLP 2023</span> <span class="rc-authors">Jiaxin Huang <em>et al.</em></span> **[Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)**
 
