@@ -19,7 +19,8 @@ News
 ======
 <div style="background-color: #fff5f0; border: 2px solid coral; border-radius: 8px; padding: 20px 24px; margin: 15px 0">
 <ul style="line-height:26px; margin-bottom: 0; padding-left: 22px">
-  <li><span style="color: coral"><strong>[Oct 2026]</strong></span> Gave a guest lecture on <em>Sustainable Self-Evolving Models</em> at <strong>Virginia Tech</strong>, for the course <em>From Foundation Models to AI Agents</em>.</li>
+  <li><span style="color: coral"><strong>[Oct 2026]</strong></span> <em><a href="https://arxiv.org/abs/2605.09959" target="_blank">G-Zero</a></em> received the <span style="color: #cc0000"><strong>Best Paper Award</strong></span> at the NeurIPS 2026 <a href="https://ttcl-agents.github.io/" target="_blank">TTCL Workshop</a>!</li>
+  <li><span style="color: coral"><strong>[Oct 2026]</strong></span> Gave a guest lecture on <strong>Sustainable Self-Evolving Models</strong> at Virginia Tech, for the course <em>From Foundation Models to AI Agents</em>.</li>
   <li><span style="color: coral"><strong>[Sep 2026]</strong></span> Two papers accepted to NeurIPS 2026: <em><a href="https://arxiv.org/abs/2605.09959" target="_blank">G-Zero</a></em> (<span style="color: #cc0000"><strong>spotlight</strong></span>, top 1.3%) and <em><a href="https://arxiv.org/abs/2605.21468" target="_blank">Minimal RLVR</a></em>. See you in Atlanta!</li>
   <li><span style="color: coral"><strong>[Aug 2026]</strong></span> Two papers accepted to EMNLP 2026: <em><a href="https://www.arxiv.org/abs/2601.05167" target="_blank">RelayLLM</a></em> and <em><a href="https://arxiv.org/abs/2605.05566" target="_blank">Nonsense Helps (LoPE)</a></em>.</li>
   <li><span style="color: coral"><strong>[Jun 2026]</strong></span> <em><a href="https://openreview.net/forum?id=ugRJVwcjbZ" target="_blank">SPEED</a></em> accepted to COLM 2026. See you in San Francisco!</li>
@@ -81,8 +82,7 @@ Recent Research Interests
   color: #cc0000;
   font-size: 0.8em;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.01em;
   margin-left: 6px;
 }
 </style>
@@ -94,7 +94,7 @@ My group studies how to make language models **self-improving**, **efficient**, 
 
 * <span class="rc-venue">ICLR 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://www.arxiv.org/abs/2508.05004)**
 * <span class="rc-venue">CVPR 2026</span> <span class="rc-authors">Yicheng He <em>et al.</em></span> **[VisPlay: Self-Evolving Vision-Language Models from Images](https://www.arxiv.org/abs/2511.15661)**
-* <span class="rc-venue">NeurIPS 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[G-Zero: Self-Play for Open-Ended Generation from Zero Data](https://arxiv.org/abs/2605.09959)** <span class="rc-spotlight">spotlight</span>
+* <span class="rc-venue">NeurIPS 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[G-Zero: Self-Play for Open-Ended Generation from Zero Data](https://arxiv.org/abs/2605.09959)** <span class="rc-spotlight">Spotlight (top 1.3%), Best paper award@TTCL Workshop</span>
 * <span class="rc-venue">Preprint 2026</span> <span class="rc-authors">Jinyuan Li <em>et al.</em></span> **[Questioning the Questions: Sustaining Self-Evolution in Reasoning Models](https://arxiv.org/abs/2610.04299)**
 * <span class="rc-venue">Preprint 2026</span> <span class="rc-authors">Chengsong Huang <em>et al.</em></span> **[EnvHarness: Awakening Static Worlds for Agent Learning](https://arxiv.org/abs/2608.19880)**
 * <span class="rc-venue">EMNLP 2023</span> <span class="rc-authors">Jiaxin Huang <em>et al.</em></span> **[Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)**
