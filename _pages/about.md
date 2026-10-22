@@ -19,6 +19,7 @@ News
 ======
 <div style="background-color: #fff5f0; border: 2px solid coral; border-radius: 8px; padding: 20px 24px; margin: 15px 0">
 <ul style="line-height:26px; margin-bottom: 0; padding-left: 22px">
+  <li><span style="color: coral"><strong>[Oct 2026]</strong></span> Gave a guest lecture on <em>Sustainable Self-Evolving Models</em> at <strong>Virginia Tech</strong>, for the course <em>From Foundation Models to AI Agents</em>.</li>
   <li><span style="color: coral"><strong>[Sep 2026]</strong></span> Two papers accepted to NeurIPS 2026: <em><a href="https://arxiv.org/abs/2605.09959" target="_blank">G-Zero</a></em> (<span style="color: #cc0000"><strong>spotlight</strong></span>, top 1.3%) and <em><a href="https://arxiv.org/abs/2605.21468" target="_blank">Minimal RLVR</a></em>. See you in Atlanta!</li>
   <li><span style="color: coral"><strong>[Aug 2026]</strong></span> Two papers accepted to EMNLP 2026: <em><a href="https://www.arxiv.org/abs/2601.05167" target="_blank">RelayLLM</a></em> and <em><a href="https://arxiv.org/abs/2605.05566" target="_blank">Nonsense Helps (LoPE)</a></em>.</li>
   <li><span style="color: coral"><strong>[Jun 2026]</strong></span> <em><a href="https://openreview.net/forum?id=ugRJVwcjbZ" target="_blank">SPEED</a></em> accepted to COLM 2026. See you in San Francisco!</li>
